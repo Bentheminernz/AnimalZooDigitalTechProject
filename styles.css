@@ -1,0 +1,33 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    background: linear-gradient(155deg, rgb(202, 50, 50) 5.7%, rgb(252, 195, 12) 92.4%);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    padding-left: 15px;
+    padding-top: 5px;
+}
+ul.animal-list {
+    padding: 0;
+}
+li.animal-list-item {
+    text-align: center;
+    display: block;
+    margin-bottom: 5px; 
+}
+p {
+    padding-left: 250px;
+    padding-right: 250px;
+}
+.nav-item {
+    font-size: 17px;
+}
+.title {
+    font-weight: bold;
+}
+h3 {
+    font-weight: bold;
+}
+img {
+    border-radius: 20px;
+}
