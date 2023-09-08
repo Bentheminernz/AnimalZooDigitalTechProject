@@ -4,16 +4,16 @@ body {
     background: linear-gradient(155deg, rgb(202, 50, 50) 5.7%, rgb(252, 195, 12) 92.4%);
     background-repeat: no-repeat;
     background-attachment: fixed;
-    padding-left: 15px;
     padding-top: 5px;
 }
-ul.animal-list {
-    padding: 0;
-}
-li.animal-list-item {
-    text-align: center;
+.animal-list-item {
+    padding-left: 30px;
+    padding-right: 30px;
     display: block;
-    margin-bottom: 5px; 
+    float: left;
+}
+.animal-list {
+    padding-left: 125px;
 }
 p {
     padding-left: 250px;
